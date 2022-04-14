@@ -12,7 +12,7 @@ public class Ex16 {
 		System.out.printf("상품가격 : ");
 		double C =sc.nextDouble();
 		
-		System.out.println("받은돈 : ");
+		System.out.printf("받은돈 : ");
 		double D =sc.nextDouble();
 		
 		A = C/10.0;
